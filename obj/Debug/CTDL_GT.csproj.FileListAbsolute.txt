@@ -1,0 +1,11 @@
+D:\Microsoft Visual Studio\repo\CTDL_GT\bin\Debug\CTDL_GT.exe.config
+D:\Microsoft Visual Studio\repo\CTDL_GT\bin\Debug\CTDL_GT.exe
+D:\Microsoft Visual Studio\repo\CTDL_GT\bin\Debug\CTDL_GT.pdb
+D:\Microsoft Visual Studio\repo\CTDL_GT\obj\Debug\CTDL_GT.csproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\repo\CTDL_GT\obj\Debug\CTDL_GT.csproj.SuggestedBindingRedirects.cache
+D:\Microsoft Visual Studio\repo\CTDL_GT\obj\Debug\CTDL_GT.Form1.resources
+D:\Microsoft Visual Studio\repo\CTDL_GT\obj\Debug\CTDL_GT.Properties.Resources.resources
+D:\Microsoft Visual Studio\repo\CTDL_GT\obj\Debug\CTDL_GT.csproj.GenerateResource.cache
+D:\Microsoft Visual Studio\repo\CTDL_GT\obj\Debug\CTDL_GT.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\repo\CTDL_GT\obj\Debug\CTDL_GT.exe
+D:\Microsoft Visual Studio\repo\CTDL_GT\obj\Debug\CTDL_GT.pdb
