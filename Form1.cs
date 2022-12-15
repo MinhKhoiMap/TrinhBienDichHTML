@@ -34,16 +34,8 @@ namespace CTDL_GT
             textBox2.Clear();
             textBox3.Clear();
             TextList.Clear();
-            if (textBox1.Text == "")
-            {
-                textBox3.AppendText("Chưa nhập tệp HTML!");
-                textBox3.ForeColor = Color.MediumOrchid;
-            }
-            else
-            {
-                ArrayList partList = Split(textBox1.Text);
-                handleShow(partList);
-            }
+            ArrayList partList = Split(textBox1.Text);
+            handleShow(partList);
         }
         private ArrayList Split(string temp)
         {
@@ -134,7 +126,12 @@ namespace CTDL_GT
         }
         private void handleShow(ArrayList a)
         {
-            if (Check(a))
+            if (a.Count < 1)
+            {
+                textBox3.AppendText("Chưa nhập tệp HTML!");
+                textBox3.ForeColor = Color.MediumOrchid;
+            }
+            else if (Check(a))
             {
                 StringBuilder sb = new StringBuilder();
                 for (int i = 0; i < TextList.Count; i++)
